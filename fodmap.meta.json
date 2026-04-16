@@ -1,0 +1,24 @@
+{
+  "last_sync_utc": "2026-04-16T21:49:32.425Z",
+  "source_repo": "https://github.com/gut-check/gut-check.github.io",
+  "source_commit": "1c4c403",
+  "total_foods": 296,
+  "by_level": {
+    "moderate": 27,
+    "low": 229,
+    "high": 40
+  },
+  "by_category": {
+    "alcohol": 16,
+    "beverages": 23,
+    "condiments": 38,
+    "dairy": 22,
+    "fruits": 43,
+    "grains": 32,
+    "legumes": 13,
+    "nuts_seeds": 17,
+    "prepared": 12,
+    "proteins": 21,
+    "vegetables": 59
+  }
+}

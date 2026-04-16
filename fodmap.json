@@ -1,0 +1,4589 @@
+[
+  {
+    "name": "Beer",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍺",
+    "level": "moderate",
+    "serving": "1 bottle",
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Made from barley/wheat",
+      "1 bottle is moderate"
+    ],
+    "alternatives": [
+      "Gluten-free beer",
+      "Wine (1 glass)"
+    ]
+  },
+  {
+    "name": "Beer (Gluten-Free)",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍺",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Brandy",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🥃",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Champagne",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🥂",
+    "level": "low",
+    "serving": "1 glass",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Gin",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍸",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Port Wine",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍷",
+    "level": "moderate",
+    "serving": "1 small glass",
+    "portions": null,
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Fortified wine with residual sugar",
+      "Higher fructose than dry wines"
+    ],
+    "alternatives": [
+      "Dry red wine",
+      "Whiskey",
+      "Brandy"
+    ]
+  },
+  {
+    "name": "Rum",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🥃",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sherry (Dry)",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍷",
+    "level": "low",
+    "serving": "1 small glass",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sparkling Wine",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🥂",
+    "level": "low",
+    "serving": "1 glass",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Tequila",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🥃",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Vodka",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍸",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Whiskey",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🥃",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Wine (Red, Dry)",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍷",
+    "level": "low",
+    "serving": "1 glass",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Wine (Rosé, Dry)",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍷",
+    "level": "low",
+    "serving": "1 glass",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Wine (Sweet)",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍷",
+    "level": "moderate",
+    "serving": "1 glass",
+    "portions": null,
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Higher residual sugar",
+      "Sweeter = more fructose"
+    ],
+    "alternatives": [
+      "Dry red/white wine",
+      "Sparkling wine (brut)"
+    ]
+  },
+  {
+    "name": "Wine (White, Dry)",
+    "category": "alcohol",
+    "category_title": "Alcoholic Beverages",
+    "category_icon": "🍷",
+    "emoji": "🍷",
+    "level": "low",
+    "serving": "1 glass",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Anise Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Anise seeds contain fructans",
+      "Similar to fennel (high FODMAP)"
+    ],
+    "alternatives": [
+      "Ginger tea",
+      "Peppermint tea",
+      "Lemon thyme tea"
+    ]
+  },
+  {
+    "name": "Apple Juice",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🧃",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructose",
+      "sorbitol"
+    ],
+    "reasons": [
+      "Concentrated fructose",
+      "From apples (sorbitol)"
+    ],
+    "alternatives": [
+      "Orange juice (small)",
+      "Cranberry juice"
+    ]
+  },
+  {
+    "name": "Bergamot Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Black Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": "weak brew",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Blackberry Leaf Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Chai Tea (weak)",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": "weak brew",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Chamomile Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Chamomile flowers high in fructans",
+      "Strong brews worse"
+    ],
+    "alternatives": [
+      "Peppermint tea",
+      "Green tea",
+      "Ginger tea"
+    ]
+  },
+  {
+    "name": "Coconut Water",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🥥",
+    "level": "low",
+    "serving": "100ml",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Coffee",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "☕",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cranberry Juice",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🧃",
+    "level": "low",
+    "serving": "180ml (¾ cup)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Espresso",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "☕",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Ginger Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Green Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Kombucha",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructose",
+      "fructans"
+    ],
+    "reasons": [
+      "Fermented with sugar",
+      "May contain high FODMAP ingredients"
+    ],
+    "alternatives": [
+      "Water kefir",
+      "Plain water",
+      "Green tea"
+    ]
+  },
+  {
+    "name": "Lemon Thyme Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Mango Juice",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🧃",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "High fructose from mangoes",
+      "Concentrated fruit sugars"
+    ],
+    "alternatives": [
+      "Orange juice (small)",
+      "Cranberry juice"
+    ]
+  },
+  {
+    "name": "Oolong Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Moderate fructan content",
+      "Strong brews worse"
+    ],
+    "alternatives": [
+      "Green tea",
+      "White tea",
+      "Peppermint tea"
+    ]
+  },
+  {
+    "name": "Orange Juice",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍊",
+    "level": "low",
+    "serving": "100ml",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Pear Juice",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🧃",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructose",
+      "sorbitol"
+    ],
+    "reasons": [
+      "Very high fructose",
+      "Contains sorbitol"
+    ],
+    "alternatives": [
+      "Orange juice",
+      "Cranberry juice"
+    ]
+  },
+  {
+    "name": "Peppermint Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Rooibos Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Water",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "💧",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "White Tea",
+    "category": "beverages",
+    "category_title": "Beverages (Non-Alcoholic)",
+    "category_icon": "🥤",
+    "emoji": "🍵",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Agave",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍯",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Very high excess fructose content",
+      "Both agave and honey only tolerated in tiny amounts",
+      "Often used in larger quantities, making it problematic"
+    ],
+    "alternatives": [
+      "Maple syrup",
+      "Stevia",
+      "Sugar",
+      "Monk Fruit"
+    ]
+  },
+  {
+    "name": "Asafoetida",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🌿",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Balsamic Vinegar",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍶",
+    "level": "low",
+    "serving": "1 tbsp",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Brown Rice Syrup",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍚",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Brown Sugar",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🟤",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cacao/Cocoa Powder",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍫",
+    "level": "low",
+    "serving": "2-4 tsp",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Capers",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🫒",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cinnamon",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🌿",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Coconut Oil",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🥥",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Dark Chocolate",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍫",
+    "level": "low",
+    "serving": "5 squares",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Fish Sauce",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🐟",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Garlic Oil",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🫒",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Herbs (Fresh)",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🌿",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Honey",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍯",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Very high fructose",
+      "Excess fructose load"
+    ],
+    "alternatives": [
+      "Maple syrup",
+      "Rice malt syrup",
+      "Monk Fruit"
+    ]
+  },
+  {
+    "name": "Ketchup",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍅",
+    "level": "low",
+    "serving": "1 sachet",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Kimchi",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": "47g (⅓ cup)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Maple Syrup",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍁",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Mayonnaise",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🥫",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Miso Paste",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🥣",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Molasses",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍯",
+    "level": "low",
+    "serving": "1 tbsp",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Monk Fruit",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍈",
+    "level": "low",
+    "serving": "check product label",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Mustard",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🟡",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Olive Oil",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🫒",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Oyster Sauce",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🦪",
+    "level": "low",
+    "serving": "1 tbsp",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Peanut Butter",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🥜",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Rice Malt Syrup",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍚",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Salt",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🧂",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sesame Oil",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🫒",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Soy Oil",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🫒",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Soy Sauce",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🥢",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Spices (Most)",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🌶️",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Stevia",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🌿",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Stock (GF)",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍲",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sugar",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🧂",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Tahini",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🥣",
+    "level": "low",
+    "serving": "30g",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Tamari",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🥢",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Vinegar",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍶",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Worcestershire",
+    "category": "condiments",
+    "category_title": "Condiments & Sweeteners",
+    "category_icon": "🧂",
+    "emoji": "🍶",
+    "level": "low",
+    "serving": "2 tbsp",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Almond Milk",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Brie",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🧀",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Butter",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🧈",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cheddar",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🧀",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Coconut Milk",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥥",
+    "level": "low",
+    "serving": "125ml",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cottage Cheese",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🧀",
+    "level": "moderate",
+    "serving": "2 tbsp",
+    "portions": null,
+    "fodmap_types": [
+      "lactose"
+    ],
+    "reasons": [
+      "Contains lactose",
+      "2 tbsp is moderate"
+    ],
+    "alternatives": [
+      "Lactose-free cottage cheese",
+      "Feta"
+    ]
+  },
+  {
+    "name": "Cream (Heavy/Whipping)",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "low",
+    "serving": "40g (2 tbsp)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Eggs",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥚",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Feta",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🧀",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Hemp Milk",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Ice Cream (Regular)",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🍦",
+    "level": "low",
+    "serving": "30g (⅔ scoop)",
+    "portions": {
+      "moderate": "60g",
+      "high": "100g+"
+    },
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Kefir (Lactose-Free)",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Kefir (Regular)",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "lactose"
+    ],
+    "reasons": [
+      "Contains lactose from milk",
+      "Fermentation reduces but doesn't eliminate lactose"
+    ],
+    "alternatives": [
+      "Lactose-free kefir",
+      "Coconut kefir",
+      "Lactose-free yogurt"
+    ]
+  },
+  {
+    "name": "Lactose-Free Milk",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Milk (Regular)",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "lactose"
+    ],
+    "reasons": [
+      "High lactose content",
+      "Most common trigger"
+    ],
+    "alternatives": [
+      "Lactose-free milk",
+      "Almond milk",
+      "Oat milk"
+    ]
+  },
+  {
+    "name": "Mozzarella",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🧀",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Oat Milk",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "low",
+    "serving": "small serve",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Parmesan",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🧀",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Rice Milk",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Yogurt (Greek)",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "low",
+    "serving": "23g",
+    "portions": {
+      "moderate": "93g",
+      "high": "170g"
+    },
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Yogurt (Lactose-Free)",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Yogurt (Regular)",
+    "category": "dairy",
+    "category_title": "Dairy & Alternatives",
+    "category_icon": "🥛",
+    "emoji": "🥛",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "lactose"
+    ],
+    "reasons": [
+      "Contains lactose",
+      "Amount varies by brand"
+    ],
+    "alternatives": [
+      "Lactose-free yogurt",
+      "Coconut yogurt"
+    ]
+  },
+  {
+    "name": "Apple",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍎",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructose",
+      "sorbitol"
+    ],
+    "reasons": [
+      "High fructose (excess)",
+      "Contains sorbitol"
+    ],
+    "alternatives": [
+      "Unripe banana",
+      "Oranges",
+      "Strawberries"
+    ]
+  },
+  {
+    "name": "Apricot",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍑",
+    "level": "moderate",
+    "serving": "1 small",
+    "portions": null,
+    "fodmap_types": [
+      "sorbitol"
+    ],
+    "reasons": [
+      "Contains sorbitol",
+      "1 small fruit is moderate",
+      "Dried apricots higher"
+    ],
+    "alternatives": [
+      "Oranges",
+      "Kiwi",
+      "Strawberries (small)"
+    ]
+  },
+  {
+    "name": "Avocado",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🥑",
+    "level": "low",
+    "serving": null,
+    "portions": {
+      "low": "tiny",
+      "moderate": "⅛",
+      "high": "¼+"
+    },
+    "fodmap_types": [
+      "sorbitol"
+    ],
+    "reasons": [
+      "Contains sorbitol (polyol)",
+      "Tiny portions are safe",
+      "⅛ avocado is moderate limit",
+      "¼ avocado or more is high FODMAP"
+    ],
+    "alternatives": [
+      "Olives",
+      "Small portion only"
+    ]
+  },
+  {
+    "name": "Banana (Ripe)",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍌",
+    "level": "moderate",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Ripening increases fructans",
+      "Unripe bananas are low FODMAP"
+    ],
+    "alternatives": [
+      "Unripe/firm banana",
+      "Oranges"
+    ]
+  },
+  {
+    "name": "Banana (Unripe)",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍌",
+    "level": "low",
+    "serving": "1 medium",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Blackberries",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🫐",
+    "level": "low",
+    "serving": "22g (10)",
+    "portions": {
+      "moderate": "30g",
+      "high": "40g+"
+    },
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Low fructose at 22g serving",
+      "Watch portions - fructose adds up beyond 30g"
+    ],
+    "alternatives": [
+      "Blueberries",
+      "Raspberries (small serve)"
+    ]
+  },
+  {
+    "name": "Blueberries",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🫐",
+    "level": "low",
+    "serving": "150g (1 cup)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cantaloupe",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍈",
+    "level": "low",
+    "serving": "120g (¾ cup cubed)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cherries",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍒",
+    "level": "low",
+    "serving": "20g (2)",
+    "portions": {
+      "moderate": "75g",
+      "high": "150g"
+    },
+    "fodmap_types": [
+      "fructose",
+      "sorbitol"
+    ],
+    "reasons": [
+      "Safe at 2 cherries (20g)",
+      "Sorbitol increases with larger portions"
+    ],
+    "alternatives": [
+      "Blueberries",
+      "Strawberries"
+    ]
+  },
+  {
+    "name": "Coconut (Fresh)",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🥥",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cranberries (Fresh)",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🔴",
+    "level": "low",
+    "serving": "100g (1 cup)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Dates",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🌴",
+    "level": "low",
+    "serving": "30g (~5)",
+    "portions": {
+      "moderate": "35g",
+      "high": "40g+"
+    },
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Safe at ~5 dates (30g)",
+      "Medjool: safe at ~2 dates (39g)",
+      "Fructose builds up in larger servings"
+    ],
+    "alternatives": [
+      "Maple syrup",
+      "Rice malt syrup",
+      "Small amount of banana"
+    ]
+  },
+  {
+    "name": "Dates (Medjool)",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🌴",
+    "level": "low",
+    "serving": "39g (~2)",
+    "portions": {
+      "moderate": "45g",
+      "high": "60g+"
+    },
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Dragon Fruit",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🐉",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Figs (Dried)",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🟣",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Figs (Fresh)",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🟣",
+    "level": "moderate",
+    "serving": "1 small",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Grapefruit",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍊",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Grapes",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍇",
+    "level": "moderate",
+    "serving": "10 grapes max",
+    "portions": null,
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Fructose accumulates quickly",
+      "More than 10 grapes becomes high FODMAP"
+    ],
+    "alternatives": [
+      "Blueberries",
+      "Kiwi",
+      "Cantaloupe"
+    ]
+  },
+  {
+    "name": "Guava",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🥭",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Honeydew",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍈",
+    "level": "low",
+    "serving": "90g (½ cup cubed)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Kiwi",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🥝",
+    "level": "low",
+    "serving": "2 small",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Lemon",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍋",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Lime",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍋",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Longan",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🔴",
+    "level": "moderate",
+    "serving": "5 fruits",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Lychee",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🔴",
+    "level": "moderate",
+    "serving": "5 fruits",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Mango",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🥭",
+    "level": "low",
+    "serving": "40g (⅛ fruit)",
+    "portions": {
+      "moderate": "50g",
+      "high": "140g"
+    },
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Safe at ⅛ fruit (40g)",
+      "Fructose accumulates quickly beyond 50g"
+    ],
+    "alternatives": [
+      "Papaya",
+      "Pineapple",
+      "Passion fruit"
+    ]
+  },
+  {
+    "name": "Nectarine",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍑",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "sorbitol"
+    ],
+    "reasons": [
+      "High sorbitol (polyol)",
+      "Stone fruit like peach",
+      "Even small amounts problematic"
+    ],
+    "alternatives": [
+      "Oranges",
+      "Pineapple",
+      "Cantaloupe"
+    ]
+  },
+  {
+    "name": "Orange",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍊",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Papaya",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍈",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Passion Fruit",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🥭",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Peach (White/Canned)",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍑",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Peach (Yellow)",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍑",
+    "level": "low",
+    "serving": "30g",
+    "portions": {
+      "moderate": "50g",
+      "high": "75g+"
+    },
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Pear",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍐",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructose",
+      "sorbitol"
+    ],
+    "reasons": [
+      "Very high in fructose",
+      "Contains sorbitol"
+    ],
+    "alternatives": [
+      "Kiwi",
+      "Blueberries",
+      "Cantaloupe"
+    ]
+  },
+  {
+    "name": "Persimmon",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍊",
+    "level": "low",
+    "serving": "64g",
+    "portions": {
+      "moderate": "65g",
+      "high": "100g+"
+    },
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Pineapple",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍍",
+    "level": "low",
+    "serving": "140g (1 cup chunks)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Plum",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🟣",
+    "level": "low",
+    "serving": "1 small",
+    "portions": {
+      "moderate": "2 small",
+      "high": "3+"
+    },
+    "fodmap_types": [
+      "sorbitol"
+    ],
+    "reasons": [
+      "Safe at 1 small plum",
+      "Sorbitol increases with additional servings"
+    ],
+    "alternatives": [
+      "Blueberries",
+      "Kiwi",
+      "Grapes (small portion)"
+    ]
+  },
+  {
+    "name": "Pomegranate",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🔴",
+    "level": "low",
+    "serving": "small serve",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Prune",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🟣",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "sorbitol",
+      "fructans"
+    ],
+    "reasons": [
+      "Extremely high sorbitol",
+      "Concentrated dried plum",
+      "Known to cause digestive issues"
+    ],
+    "alternatives": [
+      "Raisins (small)",
+      "Dried cranberries (small)"
+    ]
+  },
+  {
+    "name": "Raspberry",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍓",
+    "level": "moderate",
+    "serving": "60g (small handful)",
+    "portions": null,
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Fructose adds up at larger servings",
+      "Keep to ⅓ cup or less"
+    ],
+    "alternatives": [
+      "Blueberries",
+      "Strawberries (5 max)"
+    ]
+  },
+  {
+    "name": "Rhubarb",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🔴",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Strawberry",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍓",
+    "level": "moderate",
+    "serving": "5 medium max",
+    "portions": null,
+    "fodmap_types": [
+      "fructose"
+    ],
+    "reasons": [
+      "Fructose becomes problematic over 5 berries",
+      "Safe in small portions"
+    ],
+    "alternatives": [
+      "Blueberries",
+      "Kiwi",
+      "Cantaloupe"
+    ]
+  },
+  {
+    "name": "Tangerine",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍊",
+    "level": "low",
+    "serving": "2 small",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Watermelon",
+    "category": "fruits",
+    "category_title": "Fruits",
+    "category_icon": "🍎",
+    "emoji": "🍉",
+    "level": "low",
+    "serving": "18g (1.5 tbsp)",
+    "portions": {
+      "moderate": "30g",
+      "high": "larger"
+    },
+    "fodmap_types": [
+      "fructose",
+      "mannitol"
+    ],
+    "reasons": [
+      "Safe at 1.5 tbsp (18g)",
+      "Very small safe portion due to fructose + mannitol"
+    ],
+    "alternatives": [
+      "Cantaloupe",
+      "Honeydew (small)"
+    ]
+  },
+  {
+    "name": "Amaranth",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌾",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Barley",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌾",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "High fructan grain",
+      "Found in many beers"
+    ],
+    "alternatives": [
+      "Rice",
+      "Quinoa",
+      "Oats"
+    ]
+  },
+  {
+    "name": "Brioche (Artisan)",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍞",
+    "level": "moderate",
+    "serving": "1 slice",
+    "portions": null,
+    "fodmap_types": [
+      "fructans",
+      "lactose"
+    ],
+    "reasons": [
+      "12+ hour fermentation reduces fructans ~70%",
+      "Lactose from dairy does NOT reduce with time",
+      "1 slice keeps both fructans + lactose tolerable",
+      "If lactose-tolerant, fructans are the only concern"
+    ],
+    "alternatives": [
+      "Traditional sourdough",
+      "GF bread"
+    ]
+  },
+  {
+    "name": "Brioche (Commercial)",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍞",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans",
+      "lactose",
+      "fructose"
+    ],
+    "reasons": [
+      "Fast-rise methods leave fructans intact",
+      "Dairy content (milk, butter, eggs)",
+      "Often contains honey or high-fructose sweeteners",
+      "Additives may worsen symptoms"
+    ],
+    "alternatives": [
+      "Artisan brioche (small portion)",
+      "Traditional sourdough",
+      "GF bread"
+    ]
+  },
+  {
+    "name": "Buckwheat",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌾",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Challah Bread",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍞",
+    "level": "moderate",
+    "serving": "1 slice",
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Contains wheat flour",
+      "1 slice is moderate"
+    ],
+    "alternatives": [
+      "Traditional sourdough",
+      "GF bread"
+    ]
+  },
+  {
+    "name": "Corn Tortillas",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🫓",
+    "level": "low",
+    "serving": "3 pieces",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cornmeal",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌽",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Couscous",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍚",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Made from wheat",
+      "High in fructans"
+    ],
+    "alternatives": [
+      "Quinoa",
+      "Rice",
+      "Buckwheat"
+    ]
+  },
+  {
+    "name": "GF Bread",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍞",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "GF Pasta",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍝",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Kamut",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌾",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Millet",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌾",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Oats",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🥣",
+    "level": "low",
+    "serving": "45g dry (½ cup)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Polenta",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌽",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Popcorn",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍿",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Potato Starch",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🥔",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Quinoa",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍚",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Rice",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍚",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Rice Flour",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍚",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Rice Noodles",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍜",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Rice Starch",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍚",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Rye",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍞",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "High fructan content",
+      "Includes rye bread"
+    ],
+    "alternatives": [
+      "Traditional sourdough",
+      "GF bread"
+    ]
+  },
+  {
+    "name": "Sorghum",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌾",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sourdough (Commercial)",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍞",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Fast-rise methods (1-2 hrs) skip fructan breakdown",
+      "Often contains added baker's yeast",
+      "'Sourdough-style' or 'sourdough flavor' = not real",
+      "Check label: yeast listed = fake sourdough"
+    ],
+    "alternatives": [
+      "Traditional sourdough",
+      "GF bread"
+    ]
+  },
+  {
+    "name": "Sourdough (Rye)",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍞",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans",
+      "gos"
+    ],
+    "reasons": [
+      "Rye is very high in fructans + GOS",
+      "Even long fermentation can't reduce enough",
+      "Remains high FODMAP regardless of process"
+    ],
+    "alternatives": [
+      "Traditional wheat/spelt sourdough",
+      "GF bread"
+    ]
+  },
+  {
+    "name": "Sourdough (Traditional)",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍞",
+    "level": "low",
+    "serving": "2 slices",
+    "portions": null,
+    "fodmap_types": [],
+    "reasons": [
+      "Long fermentation (12-24hrs) breaks down fructans",
+      "Bacteria consume FODMAPs before you eat",
+      "70-90% fructan reduction vs regular bread",
+      "White wheat, wholemeal & spelt all safe"
+    ],
+    "alternatives": []
+  },
+  {
+    "name": "Spelt Flour",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌾",
+    "level": "moderate",
+    "serving": "small amount",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Tapioca Starch",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🥣",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Teff",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🌾",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Wheat Bread",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍞",
+    "level": "moderate",
+    "serving": "1 slice",
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Wheat contains fructans",
+      "Portion size matters"
+    ],
+    "alternatives": [
+      "Traditional sourdough",
+      "GF bread"
+    ]
+  },
+  {
+    "name": "Wheat Pasta",
+    "category": "grains",
+    "category_title": "Grains & Cereals",
+    "category_icon": "🌾",
+    "emoji": "🍝",
+    "level": "moderate",
+    "serving": "75g cooked (½ cup)",
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Wheat-based (fructans)",
+      "½ cup cooked is moderate"
+    ],
+    "alternatives": [
+      "GF pasta",
+      "Rice noodles"
+    ]
+  },
+  {
+    "name": "Baked Beans",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "gos",
+      "fructans"
+    ],
+    "reasons": [
+      "Navy beans high in GOS",
+      "Often onion/garlic added"
+    ],
+    "alternatives": [
+      "Canned lentils (small)",
+      "Firm tofu"
+    ]
+  },
+  {
+    "name": "Black Beans",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "moderate",
+    "serving": "45g (¼ cup)",
+    "portions": null,
+    "fodmap_types": [
+      "gos"
+    ],
+    "reasons": [
+      "Contains GOS",
+      "¼ cup canned is moderate"
+    ],
+    "alternatives": [
+      "Firm tofu",
+      "Canned lentils (small)"
+    ]
+  },
+  {
+    "name": "Broad Beans",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Chickpeas (Canned)",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "moderate",
+    "serving": "42g (¼ cup)",
+    "portions": null,
+    "fodmap_types": [
+      "gos",
+      "fructans"
+    ],
+    "reasons": [
+      "Contains GOS (galacto-oligosaccharides)",
+      "¼ cup max for moderate tolerance"
+    ],
+    "alternatives": [
+      "Firm tofu",
+      "Canned lentils (¼ cup)"
+    ]
+  },
+  {
+    "name": "Hummus (Garlic-Free)",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "low",
+    "serving": "2 tbsp",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Hummus (Regular)",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "moderate",
+    "serving": "2 tbsp max",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Kidney Beans",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "gos"
+    ],
+    "reasons": [
+      "Very high GOS content",
+      "All red beans similar"
+    ],
+    "alternatives": [
+      "Canned chickpeas (¼ cup)",
+      "Firm tofu"
+    ]
+  },
+  {
+    "name": "Lentils (Canned)",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "low",
+    "serving": "46g (¼ cup)",
+    "portions": {
+      "moderate": "½ cup",
+      "high": "¾ cup+"
+    },
+    "fodmap_types": [
+      "gos"
+    ],
+    "reasons": [
+      "Contains GOS (galacto-oligosaccharides)",
+      "Canning + rinsing reduces FODMAPs significantly",
+      "Safest lentil option - FODMAPs leach into brine"
+    ],
+    "alternatives": [
+      "Firm tofu",
+      "Tempeh",
+      "Le Puy/French lentils"
+    ]
+  },
+  {
+    "name": "Lentils (Green/Brown, Boiled)",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "low",
+    "serving": "29g",
+    "portions": {
+      "moderate": "50g",
+      "high": "75g+"
+    },
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Lentils (Le Puy/French)",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "low",
+    "serving": "46g (¼ cup)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Lentils (Red, Boiled)",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "low",
+    "serving": "23g",
+    "portions": {
+      "moderate": "46g",
+      "high": "75g+"
+    },
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Soybeans",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "gos",
+      "fructans"
+    ],
+    "reasons": [
+      "High GOS content",
+      "Includes edamame"
+    ],
+    "alternatives": [
+      "Firm tofu",
+      "Tempeh"
+    ]
+  },
+  {
+    "name": "Split Peas",
+    "category": "legumes",
+    "category_title": "Legumes",
+    "category_icon": "🫘",
+    "emoji": "🫘",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Almonds",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "low",
+    "serving": "10 nuts",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Brazil Nuts",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "low",
+    "serving": "10 nuts",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cashews",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "gos"
+    ],
+    "reasons": [
+      "High in GOS",
+      "Even small amounts high"
+    ],
+    "alternatives": [
+      "Macadamias",
+      "Peanuts",
+      "Walnuts"
+    ]
+  },
+  {
+    "name": "Cashews (Activated)",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "low",
+    "serving": "10 nuts",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Chestnut Spread",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "moderate",
+    "serving": "check label",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Chestnuts",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "low",
+    "serving": "20 nuts",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Chia Seeds",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🫘",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Flax Seeds",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🫘",
+    "level": "low",
+    "serving": "1 tbsp",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Hazelnuts",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "low",
+    "serving": "24 nuts",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Macadamia",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "low",
+    "serving": "15 nuts",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Peanuts",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🥜",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Pecans",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "low",
+    "serving": "15 halves",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Pine Nuts",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Pistachios",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans",
+      "gos"
+    ],
+    "reasons": [
+      "Contains fructans",
+      "Also high in GOS"
+    ],
+    "alternatives": [
+      "Pine nuts",
+      "Macadamias",
+      "Peanuts"
+    ]
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🎃",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sunflower Seeds",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌻",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Walnuts",
+    "category": "nuts_seeds",
+    "category_title": "Nuts & Seeds",
+    "category_icon": "🥜",
+    "emoji": "🌰",
+    "level": "low",
+    "serving": "15 halves",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Edamame",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🫛",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "gos",
+      "fructans"
+    ],
+    "reasons": [
+      "Young soybeans high in GOS",
+      "Also contains fructans"
+    ],
+    "alternatives": [
+      "Seaweed salad",
+      "Pickled ginger"
+    ]
+  },
+  {
+    "name": "Miso Soup",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🍜",
+    "level": "moderate",
+    "serving": "small bowl",
+    "portions": null,
+    "fodmap_types": [
+      "gos"
+    ],
+    "reasons": [
+      "Miso from soybeans (GOS)",
+      "Often contains onion/seaweed"
+    ],
+    "alternatives": [
+      "Clear broth",
+      "Small portion only"
+    ]
+  },
+  {
+    "name": "Pickled Ginger",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🍣",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sashimi",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🍣",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Seaweed Salad",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🥗",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Soy Sauce (GF)",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🥢",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sushi (Avocado)",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🍣",
+    "level": "moderate",
+    "serving": "3-4 pieces",
+    "portions": null,
+    "fodmap_types": [
+      "sorbitol"
+    ],
+    "reasons": [
+      "Avocado contains sorbitol",
+      "Limit to 3-4 pieces"
+    ],
+    "alternatives": [
+      "Salmon/tuna sushi",
+      "Cucumber rolls"
+    ]
+  },
+  {
+    "name": "Sushi (Plain Fish)",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🍣",
+    "level": "low",
+    "serving": "6 pieces",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sushi (Salmon)",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🍣",
+    "level": "low",
+    "serving": "6 pieces",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sushi (Tempura)",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🍣",
+    "level": "moderate",
+    "serving": "check batter",
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Tempura batter often wheat-based",
+      "Check if gluten-free"
+    ],
+    "alternatives": [
+      "Plain fish sushi",
+      "Sashimi"
+    ]
+  },
+  {
+    "name": "Sushi (Tuna)",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🍣",
+    "level": "low",
+    "serving": "6 pieces",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Wasabi",
+    "category": "prepared",
+    "category_title": "Prepared Foods",
+    "category_icon": "🍱",
+    "emoji": "🟢",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Beef",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🥩",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Chicken",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🍗",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Crab",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦀",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Duck",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦆",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Fish",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🐟",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Lamb",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🍖",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Lobster",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦞",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Lobster",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦞",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Mussels",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦪",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Oysters",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦪",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Pork",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🥓",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Prawns",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦐",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Salmon",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🍣",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sausages",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🌭",
+    "level": "moderate",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans",
+      "gos"
+    ],
+    "reasons": [
+      "Often contain onion/garlic",
+      "Check ingredients"
+    ],
+    "alternatives": [
+      "Plain meat",
+      "GF sausages"
+    ]
+  },
+  {
+    "name": "Scallops",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🐚",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Shrimp",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦐",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Tempeh",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🫘",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Tofu (Firm)",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🧊",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Tuna",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🐟",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Turkey",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦃",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Venison",
+    "category": "proteins",
+    "category_title": "Proteins",
+    "category_icon": "🍗",
+    "emoji": "🦌",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Artichoke (Fresh/Globe)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🌿",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Artichoke Hearts (Canned)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🌿",
+    "level": "low",
+    "serving": "50g (2 hearts)",
+    "portions": {
+      "moderate": "75g",
+      "high": "100g+"
+    },
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Arugula",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Asparagus",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🌿",
+    "level": "low",
+    "serving": "12g (⅔ spear)",
+    "portions": {
+      "moderate": "30g",
+      "high": "75g"
+    },
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Contains fructans",
+      "Moderate portions only"
+    ],
+    "alternatives": [
+      "Green beans",
+      "Bell peppers"
+    ]
+  },
+  {
+    "name": "Bamboo Shoots",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🎋",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Bean Sprouts",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🌱",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Beetroot",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🟣",
+    "level": "moderate",
+    "serving": "2 slices (20g)",
+    "portions": null,
+    "fodmap_types": [
+      "fructans",
+      "gos"
+    ],
+    "reasons": [
+      "Contains fructans and GOS",
+      "2 slices (20g) is moderate limit",
+      "Pickled beetroot similar",
+      "Watch portion in salads"
+    ],
+    "alternatives": [
+      "Carrot",
+      "Potato",
+      "Radish"
+    ]
+  },
+  {
+    "name": "Bell Pepper",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🫑",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Bok Choy",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Broccoli",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥦",
+    "level": "low",
+    "serving": "75g (1 cup florets)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Brussels Sprouts",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": "40g (2 sprouts)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cabbage",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": "¾ cup (75g)",
+    "portions": {
+      "moderate": "150g",
+      "high": "180g"
+    },
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Contains fructans",
+      "Safe at ¾ cup (75g)",
+      "Both green and red varieties",
+      "Coleslaw portions add up quickly"
+    ],
+    "alternatives": [
+      "Lettuce",
+      "Bok choy"
+    ]
+  },
+  {
+    "name": "Carrot",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥕",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cauliflower",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": "75g (¾ cup)",
+    "portions": {
+      "moderate": "112g",
+      "high": "150g"
+    },
+    "fodmap_types": [
+      "mannitol"
+    ],
+    "reasons": [
+      "Contains mannitol",
+      "Large serves problematic"
+    ],
+    "alternatives": [
+      "Broccoli heads",
+      "Bok choy"
+    ]
+  },
+  {
+    "name": "Celeriac",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": "75g (¼ root)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Celery",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": "<5cm stalk",
+    "portions": null,
+    "fodmap_types": [
+      "mannitol"
+    ],
+    "reasons": [
+      "Contains mannitol (polyol)",
+      "Safe at <5cm stalk",
+      "Larger portions become moderate/high",
+      "Celery leaves are safe"
+    ],
+    "alternatives": [
+      "Cucumber",
+      "Bell pepper"
+    ]
+  },
+  {
+    "name": "Chives",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🌿",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Collard Greens",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Corn",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🌽",
+    "level": "low",
+    "serving": "½ cob (38g)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Cucumber",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥒",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Eggplant",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🍆",
+    "level": "low",
+    "serving": "1 cup (75g)",
+    "portions": {
+      "moderate": "182g",
+      "high": "260g"
+    },
+    "fodmap_types": [
+      "sorbitol"
+    ],
+    "reasons": [
+      "Contains sorbitol (polyol)",
+      "Safe at 1 cup (75g)",
+      "Moderate at 182g, high at 260g+",
+      "Portion size is key"
+    ],
+    "alternatives": [
+      "Zucchini (small)",
+      "Bell pepper"
+    ]
+  },
+  {
+    "name": "Endive",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Fennel Bulb",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🌿",
+    "level": "low",
+    "serving": "75g (¾ cup)",
+    "portions": {
+      "moderate": "145g",
+      "high": "195g+"
+    },
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "High in fructans",
+      "Related to onion family"
+    ],
+    "alternatives": [
+      "Celery (small)",
+      "Bok choy"
+    ]
+  },
+  {
+    "name": "Garlic",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🧄",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Very high in fructans",
+      "Even small amounts trigger symptoms"
+    ],
+    "alternatives": [
+      "Garlic-infused oil",
+      "Chives",
+      "Asafoetida"
+    ]
+  },
+  {
+    "name": "Ginger",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🫚",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Green Beans",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🫛",
+    "level": "low",
+    "serving": "75g",
+    "portions": {
+      "moderate": "100g",
+      "high": "125g"
+    },
+    "fodmap_types": [
+      "sorbitol"
+    ],
+    "reasons": [
+      "Contains sorbitol",
+      "Safe at 75g (~15-20 beans)",
+      "Becomes moderate at 100g+",
+      "French beans similar"
+    ],
+    "alternatives": [
+      "Bell pepper",
+      "Bok choy"
+    ]
+  },
+  {
+    "name": "Hearts of Palm",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🌴",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Iceberg Lettuce",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Jicama",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥔",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Kale",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Leek (Green Part)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🧅",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Leek (White Part)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🧅",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "White part high in fructans",
+      "Green part is safe"
+    ],
+    "alternatives": [
+      "Leek green tops",
+      "Chives",
+      "Scallion greens"
+    ]
+  },
+  {
+    "name": "Lettuce",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Mushrooms (Button, Canned)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🍄",
+    "level": "low",
+    "serving": "75g (½ cup)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Mushrooms (Button, Fresh)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🍄",
+    "level": "low",
+    "serving": "7g",
+    "portions": {
+      "moderate": "10g",
+      "high": "75g"
+    },
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Mushrooms (Oyster)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🍄",
+    "level": "low",
+    "serving": "75g (1 cup)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Mushrooms (Portobello)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🍄",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "mannitol"
+    ],
+    "reasons": [
+      "High in mannitol",
+      "Mature cremini mushrooms"
+    ],
+    "alternatives": [
+      "Oyster mushrooms",
+      "Eggplant (for texture)"
+    ]
+  },
+  {
+    "name": "Mushrooms (Shiitake)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🍄",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "mannitol"
+    ],
+    "reasons": [
+      "Very high in mannitol",
+      "Even small amounts problematic"
+    ],
+    "alternatives": [
+      "Oyster mushrooms",
+      "Dried shiitake (small amount)"
+    ]
+  },
+  {
+    "name": "Okra",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🌿",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Olives",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🫒",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Onion",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🧅",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "High fructan content",
+      "Found in many sauces/dishes"
+    ],
+    "alternatives": [
+      "Green part of spring onion",
+      "Chives",
+      "Garlic-infused oil"
+    ]
+  },
+  {
+    "name": "Parsnip",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥕",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Peas (Green)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🫛",
+    "level": "moderate",
+    "serving": "45g (small handful)",
+    "portions": null,
+    "fodmap_types": [
+      "gos",
+      "fructans"
+    ],
+    "reasons": [
+      "High in GOS (galacto-oligosaccharides)",
+      "¼ cup is moderate tolerance",
+      "Garden peas, petit pois similar",
+      "Easy to exceed in mixed dishes"
+    ],
+    "alternatives": [
+      "Green beans (small)",
+      "Snow peas (5 pods)",
+      "Bok choy"
+    ]
+  },
+  {
+    "name": "Peas (Snow)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🫛",
+    "level": "low",
+    "serving": "5 pods (23g)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Potato",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥔",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Pumpkin",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🎃",
+    "level": "low",
+    "serving": "63g",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Radish",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🔴",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Romaine Lettuce",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Rutabaga",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥔",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Scallion (Green Part)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🧅",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Shallots",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🧅",
+    "level": "high",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "High in fructans like onion",
+      "Part of the allium family"
+    ],
+    "alternatives": [
+      "Chives",
+      "Scallion greens",
+      "Garlic-infused oil"
+    ]
+  },
+  {
+    "name": "Spinach",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Squash (Butternut)",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🎃",
+    "level": "low",
+    "serving": "45g (¼ cup diced)",
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Sweet Potato",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🍠",
+    "level": "low",
+    "serving": "½ cup (75g)",
+    "portions": {
+      "moderate": "100g",
+      "high": "112g"
+    },
+    "fodmap_types": [
+      "mannitol"
+    ],
+    "reasons": [
+      "Contains mannitol (polyol)",
+      "Safe at ½ cup (75g)",
+      "Different from regular potato (low)",
+      "Fries/chips can exceed quickly"
+    ],
+    "alternatives": [
+      "Regular potato",
+      "Carrot"
+    ]
+  },
+  {
+    "name": "Swiss Chard",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥬",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Tomato",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🍅",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Turnip",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥔",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Water Chestnuts",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥜",
+    "level": "low",
+    "serving": null,
+    "portions": null,
+    "fodmap_types": null,
+    "reasons": null,
+    "alternatives": null
+  },
+  {
+    "name": "Zucchini",
+    "category": "vegetables",
+    "category_title": "Vegetables",
+    "category_icon": "🥬",
+    "emoji": "🥒",
+    "level": "low",
+    "serving": "65g",
+    "portions": {
+      "moderate": "70g",
+      "high": "100g"
+    },
+    "fodmap_types": [
+      "fructans"
+    ],
+    "reasons": [
+      "Contains fructans (oligo)",
+      "Safe at 65g (½ cup)",
+      "Very narrow margin to moderate (70g)",
+      "Easy to exceed in pasta dishes"
+    ],
+    "alternatives": [
+      "Cucumber",
+      "Bell pepper"
+    ]
+  }
+]
